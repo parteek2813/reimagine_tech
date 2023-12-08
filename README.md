@@ -34,14 +34,14 @@ BeiImagine is a front-end application for a record-keeping system designed to st
 
 2. **Install Dependencies**
 
-   ```npm install
-
+   ```bash
+   npm install
    ```
 
 3. **Run the application:**
 
-   ```npm run start
-
+   ```bash
+   npm run start
    ```
 
 ## Thanks for Reading out.
